@@ -2,6 +2,10 @@
 
 ## :memo: Description :
 
+The main aim behind this repository is to introduce the beginners to the C programming and to build a Coding Cultre from the first year itself .
+
+Happy Coding!!
+
 ## :construction: Want to Contribute ?
 
 When contributing to this repository, please first discuss the change you wish to make via disscussion portal of your respective teams or any other method with the Owners/Mainatiners of this repository before making a change.
